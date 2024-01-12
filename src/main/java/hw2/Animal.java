@@ -1,4 +1,6 @@
 package hw2;
 
-public class Animal {
+abstract class Animal {
+     private String name;
+     private int age;
 }
